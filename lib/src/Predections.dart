@@ -197,7 +197,6 @@ enum PlaceType { REGION, COUNTRY, PLACE, POI, ADDRESS, NEIGHBORHOOD, LOCALITY, D
 final placeTypeValues = EnumValues({
   "country": PlaceType.COUNTRY,
   "place": PlaceType.PLACE,
-  "region": PlaceType.REGION
   "region": PlaceType.REGION,
   "poi": PlaceType.POI,
   "address": PlaceType.ADDRESS,
